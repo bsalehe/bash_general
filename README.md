@@ -1,3 +1,3 @@
 # Bash commands general
 
-This repo contains simple linux shell scripts for performing different pre-processing tasks on next-generation-sequencing data before downstream analysis
+Basic linux commands for performing different tasks including pre-processing next-generation-sequencing (NGS) data.
